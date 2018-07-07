@@ -1,0 +1,4 @@
+baseURL = "https://wharfr.at/"
+languageCode = "en-gb"
+title = "wharfrat"
+theme = "hyde"

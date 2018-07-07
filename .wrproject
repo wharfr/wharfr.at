@@ -1,0 +1,8 @@
+default = "docs"
+
+[crates.docs]
+  image = "wharfr/docs"
+  mount-home = false
+  project-mount = "/wharfrat"
+  working-dir = "project, match"
+
