@@ -5,4 +5,4 @@ default = "docs"
   mount-home = false
   project-mount = "/wharfrat"
   working-dir = "project, match"
-
+  ports = ["1313:1313"]
