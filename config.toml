@@ -1,4 +1,37 @@
 baseURL = "https://wharfr.at/"
 languageCode = "en-gb"
 title = "wharfrat"
-theme = "hyde"
+theme = "hyde-hyde"
+
+[params]
+    author = "The wharfrat Authors"
+    title = "wharfrat"
+    description = "dockerise your dev environment"
+    authorimage = "/images/logo.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    
+[params.social]
+    github = "wharfr"
+
+[[menu.main]]
+    name = "Home"
+    weight = 100
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "Blog"
+    weight = 200
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "Forum"
+    identifier = "forum"
+    weight = 300
+    url = "https://forum.wharfr.at/"
+[[menu.main]]
+    name = "Docs"
+    identifier = "docs"
+    weight = 400
+    url = "https://docs.wharfr.at/"
+
