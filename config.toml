@@ -6,11 +6,11 @@ theme = "hyde-hyde"
 [params]
     author = "The wharfrat Authors"
     title = "wharfrat"
-    description = "dockerise your dev environment"
+    description = "virtualise your dev environment"
     authorimage = "/images/logo.png"
     dateformat = "Jan 2, 2006"
     highlightjs = true
-    
+
 [params.social]
     github = "wharfr"
 
@@ -34,4 +34,8 @@ theme = "hyde-hyde"
     identifier = "docs"
     weight = 400
     url = "https://docs.wharfr.at/"
-
+[[menu.main]]
+    name = "License"
+    identifier = "license"
+    weight = 400
+    url = "/#license"
