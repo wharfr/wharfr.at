@@ -62,4 +62,4 @@ blog](/blog). The latest posts are:
 ## <a name="license"></a>License
 
 wharfrat is licensed under the [MIT License]
-(https://github.com/wharf/wharfrat/blob/master/LICENSE).
+(https://github.com/wharfr/wharfrat/blob/master/LICENSE).
